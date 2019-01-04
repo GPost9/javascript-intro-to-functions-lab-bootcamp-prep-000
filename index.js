@@ -4,3 +4,10 @@ function logShout(string){console.log(string.toUpperCase())}
 function logWhisper(string){console.log(string.toLowerCase())}
 function sayHiToGrandma(string){return "I can't hear you" if 'Hello'.toLowerCase(), return "YES INDEED!", if 'Hello'.toUpperCase(), return "I love you, too." if console.log("I love you, Grandma") 
 
+//* function testNum(a) {
+  if (a > 0) {
+    return "positive";
+  } else {
+    return "NOT positive";
+  }
+}
